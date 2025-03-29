@@ -1,0 +1,3 @@
+﻿  bitsort.cpp
+C:\Users\79116\Desktop\алгоитмы лабы\bitsort\bitsort.cpp(18,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  bitsort.vcxproj -> C:\Users\79116\Desktop\алгоитмы лабы\bitsort\x64\Debug\bitsort.exe
